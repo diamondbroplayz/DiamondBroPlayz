@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align=center>
-  <a href="https://www.youtube.com/@diamondbroplayz8140">Subscribe to my YouTube!</a>
+  <a href="https://www.youtube.com/@diamondbroplayz8140"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="My YouTube"></a>
 </div>
 
 <div id="views" align=center>

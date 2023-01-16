@@ -56,10 +56,12 @@ I am a Developer/Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Recent Projects :
 
-[Rocket Altitude Calculator](https://github.com/Wolfcrossy/RocketAltitudeCalculator)
+- [This read me](https://github.com/Wolfcrossy/Wolfcrossy)
 
-[Batch File Virus](https://github.com/Wolfcrossy/batch-virus)
+- [Rocket Altitude Calculator](https://github.com/Wolfcrossy/RocketAltitudeCalculator)
 
-[My coding blog](https://github.com/wavysblog/wavysblog.github.io)
+- [Batch File Virus](https://github.com/Wolfcrossy/batch-virus)
+
+- [My coding blog](https://github.com/wavysblog/wavysblog.github.io)
 
 ---

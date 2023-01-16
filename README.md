@@ -44,7 +44,7 @@ I am a Developer/Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Wolfcrossy&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolfcrossy&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolfcrossy&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

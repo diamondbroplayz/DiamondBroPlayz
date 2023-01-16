@@ -1,13 +1,13 @@
 settings:
-  readme_file: "./TEMPLATE.md"
-  max_lines: 10
+  readme_file: "./READme.md"
+  max_lines: 5
   commit_name: "Wolfcrossy"
   commit_email: "DiamondBroPlayz@pm.me"
   disabled_events:
     - "comments"
     - "push"
   date:
-    timezone: "UTC -6"
+    timezone: "CST"
     text: '<p align="center">Last refresh: <b>{DATE} IST</b>'
 messages:
   comments: "![comment] Commented on {ID} in {REPO}"

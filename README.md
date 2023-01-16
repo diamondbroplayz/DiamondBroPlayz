@@ -72,5 +72,5 @@ I am a Developer/Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 ---
 
 # Recent Activity :zap:
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:stop-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->

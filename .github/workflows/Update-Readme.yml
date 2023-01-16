@@ -1,6 +1,10 @@
-- name: Recent GitHub Activity - Profile Readme
-  uses: Readme-Workflows/recent-activity@v2.4.1
-
+name: Recent GitHub Activity - Profile Readme
 on:
   schedule:
-    - cron:  "*/5 * * * *" #build project on the 15th day of every month on the 42nd minute of the 7th hour.
+    - cron:  */5 * * * *
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Recent GitHub Activity
+      uses: Readme-Workflows/recent-activity@v2.4.1

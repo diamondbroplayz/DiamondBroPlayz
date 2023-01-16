@@ -70,3 +70,7 @@ I am a Developer/Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 - [My coding blog](https://github.com/wavysblog/wavysblog.github.io)
 
 ---
+
+# Recent Activity :zap:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->

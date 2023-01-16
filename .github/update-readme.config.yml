@@ -1,5 +1,5 @@
 settings:
-  readme_file: "./READme.md"
+  readme_file: "./README.md"
   max_lines: 5
   commit_name: "Wolfcrossy"
   commit_email: "DiamondBroPlayz@pm.me"

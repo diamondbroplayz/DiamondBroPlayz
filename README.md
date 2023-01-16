@@ -4,6 +4,7 @@
 
 <div id="badges" align=center>
   <a href="https://www.youtube.com/@diamondbroplayz8140"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="My YouTube"></a>
+  <a href="https://discord.gg/wfSePnUxRe"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="My Discord"></a>
 </div>
 
 <div id="views" align=center>

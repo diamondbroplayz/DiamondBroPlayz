@@ -17,6 +17,8 @@
    </h1>
 </div>
 
+# ![My profile banner](https://github.com/Wolfcrossy/Wolfcrossy/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner.png)
+
 I am a Developer/Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the USA.
 
 - :telescope: I’m a gamer and an indepent coder
@@ -40,9 +42,18 @@ I am a Developer/Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Wolfcrossy&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Wolfcrossy&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolfcrossy&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolfcrossy&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+---
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Recent Projects :
+
+[Rocket Altitude Calculator](https://github.com/Wolfcrossy/RocketAltitudeCalculator)
+
+[Batch File Virus](https://github.com/Wolfcrossy/batch-virus)
+
+[My coding blog](https://github.com/wavysblog/wavysblog.github.io)
+
+---

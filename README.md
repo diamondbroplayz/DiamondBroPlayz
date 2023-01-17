@@ -61,16 +61,17 @@ I am a Developer/Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Recent Projects :
 
-- [This read me](https://github.com/Wolfcrossy/Wolfcrossy)
-
-- [Rocket Altitude Calculator](https://github.com/Wolfcrossy/RocketAltitudeCalculator)
-
-- [Batch File Virus](https://github.com/Wolfcrossy/batch-virus)
-
-- [My coding blog](https://github.com/wavysblog/wavysblog.github.io)
+<a href="https://github.com/Wolfcrossy/Wolfcrossy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wolfcrossy&theme=github_dark&hide_border=true&repo=Wolfcrossy"/>
+</a>
+<a href="https://github.com/Wolfcrossy/RocketAltitudeCalculator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wolfcrossy&theme=github_dark&hide_border=true&repo=RocketAltitudeCalculator"/>
+</a>
+<a href="https://github.com/Wolfcrossy/batch-virus">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wolfcrossy&theme=github_dark&hide_border=true&repo=batch-virus"/>
+</a>
+<a href="https://github.com/wavysblog/wavysblog.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wavysblog&theme=github_dark&hide_border=true&repo=wavysblog.github.io"/>
+</a>
 
 ---
-
- 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->

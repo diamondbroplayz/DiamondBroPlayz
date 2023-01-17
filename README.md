@@ -55,17 +55,17 @@ I am a Developer/Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Wolfcrossy&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolfcrossy&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Wolfcrossy&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Recent Projects :
 
 <a href="https://github.com/Wolfcrossy/Wolfcrossy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wolfcrossy&theme=github_dark&hide_border=true&repo=Wolfcrossy"/>
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Wolfcrossy&theme=github_dark&hide_border=true&repo=Wolfcrossy"/>
 </a>
 <a href="https://github.com/Wolfcrossy/RocketAltitudeCalculator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wolfcrossy&theme=github_dark&hide_border=true&repo=RocketAltitudeCalculator"/>
+  <img align="center" src="https://github-readme-stats.zohan.tech/api/pin/?username=Wolfcrossy&theme=github_dark&hide_border=true&repo=RocketAltitudeCalculator"/>
 </a>
 <a href="https://github.com/Wolfcrossy/batch-virus">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wolfcrossy&theme=github_dark&hide_border=true&repo=batch-virus"/>

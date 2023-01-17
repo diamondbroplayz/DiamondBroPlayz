@@ -67,7 +67,6 @@ I am a Developer/Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 <a href="https://github.com/Wolfcrossy/RocketAltitudeCalculator">
   <img align="right" src="https://github-readme-stats.zohan.tech/api/pin/?username=Wolfcrossy&theme=github_dark&hide_border=true&repo=RocketAltitudeCalculator"/>
 </a>
-
 <a href="https://github.com/Wolfcrossy/batch-virus">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wolfcrossy&theme=github_dark&hide_border=true&repo=batch-virus"/>
 </a>

@@ -69,10 +69,10 @@ I am a Developer/Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 </a>
 
 <a href="https://github.com/Wolfcrossy/batch-virus">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Wolfcrossy&theme=github_dark&hide_border=true&repo=batch-virus"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wolfcrossy&theme=github_dark&hide_border=true&repo=batch-virus"/>
 </a>
 <a href="https://github.com/wavysblog/wavysblog.github.io">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=wavysblog&theme=github_dark&hide_border=true&repo=wavysblog.github.io"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wavysblog&theme=github_dark&hide_border=true&repo=wavysblog.github.io"/>
 </a>
 
 ---

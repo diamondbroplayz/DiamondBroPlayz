@@ -62,16 +62,16 @@ I am a Developer/Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Recent Projects :
 
 <a href="https://github.com/Wolfcrossy/Wolfcrossy">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Wolfcrossy&theme=github_dark&hide_border=true&repo=Wolfcrossy"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wolfcrossy&theme=github_dark&hide_border=true&repo=Wolfcrossy"/>
 </a>
 <a href="https://github.com/Wolfcrossy/RocketAltitudeCalculator">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Wolfcrossy&theme=github_dark&hide_border=true&repo=RocketAltitudeCalculator"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wolfcrossy&theme=github_dark&hide_border=true&repo=RocketAltitudeCalculator"/>
 </a>
 <a href="https://github.com/Wolfcrossy/batch-virus">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Wolfcrossy&theme=github_dark&hide_border=true&repo=batch-virus"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wolfcrossy&theme=github_dark&hide_border=true&repo=batch-virus"/>
 </a>
 <a href="https://github.com/wavysblog/wavysblog.github.io">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=wavysblog&theme=github_dark&hide_border=true&repo=wavysblog.github.io"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wavysblog&theme=github_dark&hide_border=true&repo=wavysblog.github.io"/>
 </a>
 
 ---

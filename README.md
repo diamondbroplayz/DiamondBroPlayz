@@ -75,3 +75,11 @@ I am a Developer/Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 </a>
 
 ---
+
+## Recent Activity
+
+This is a list of my most recent activity on GitHub.
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->

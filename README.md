@@ -94,4 +94,5 @@ Last Updated: Tuesday, January 31st, 2023, 6:40:48 PM
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Upgrading Basic Python Scripts](https://dev.to/wolfcrossy/upgrading-basic-python-scripts-278h)
 <!-- BLOG-POST-LIST:END -->

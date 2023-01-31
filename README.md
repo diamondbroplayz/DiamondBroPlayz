@@ -92,7 +92,7 @@ This is a list of my most recent activity on GitHub.
 Last Updated: Tuesday, January 31st, 2023, 6:40:48 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
-# Blog posts
+# 📖 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Upgrading Basic Python Scripts](https://dev.to/wolfcrossy/upgrading-basic-python-scripts-278h)
 <!-- BLOG-POST-LIST:END -->

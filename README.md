@@ -78,8 +78,6 @@ I am a Developer/Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 ## Recent Activity
 
-(test for activities)
-
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->

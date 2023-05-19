@@ -81,15 +81,15 @@ I am a Developer/Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Wolfcrossy/Wolfcrossy.github.io](https://github.com/Wolfcrossy/Wolfcrossy.github.io)<br>
-2. 📔 Created new repository [Wolfcrossy/Wolfcrossy.github.io](https://github.com/Wolfcrossy/Wolfcrossy.github.io)<br>
-3. ⬆️ Pushed 1 commit(s) to [Wolfcrossy/Wolfcrossy](https://github.com/Wolfcrossy/Wolfcrossy)<br>
-4. ✌️ Released [The first release!](https://github.com/Wolfcrossy/Wolfcrossy/releases/tag/1.0) in [Wolfcrossy/Wolfcrossy](https://github.com/Wolfcrossy/Wolfcrossy)<br>
-5. ⬆️ Pushed 1 commit(s) to [Wolfcrossy/Wolfcrossy](https://github.com/Wolfcrossy/Wolfcrossy)<br>
+1. ⬆️ Pushed 1 commit(s) to [Wolfcrossy/discord](https://github.com/Wolfcrossy/discord)<br>
+2. ⬆️ Pushed 1 commit(s) to [Wolfcrossy/discord](https://github.com/Wolfcrossy/discord)<br>
+3. ⬆️ Pushed 1 commit(s) to [Wolfcrossy/discord](https://github.com/Wolfcrossy/discord)<br>
+4. 📔 Created new repository [Wolfcrossy/discord](https://github.com/Wolfcrossy/discord)<br>
+5. ⬆️ Pushed 1 commit(s) to [Wolfcrossy/Wolfcrossy.github.io](https://github.com/Wolfcrossy/Wolfcrossy.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 19th, 2023, 10:14:39 PM
+Last Updated: Friday, May 19th, 2023, 10:37:11 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### 📖 Blog posts

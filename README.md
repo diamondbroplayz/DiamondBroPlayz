@@ -8,7 +8,7 @@
 </div>
 
 <div id="views" align=center>
-     <img src="https://komarev.com/ghpvc/?username=Wolfcrossy&style=flat-square&color=blue" alt="View Counter"/>
+     <img src="https://komarev.com/ghpvc/?username=DiamondBroPlayz&style=flat-square&color=blue" alt="View Counter"/>
 </div>
 
 <div id="hello" align=center>
@@ -53,22 +53,22 @@ I am a Developer/Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Wolfcrossy&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DiamondBroPlayz&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Wolfcrossy&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DiamondBroPlayz&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Recent Projects :
 
-<a href="https://github.com/Wolfcrossy/Wolfcrossy">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Wolfcrossy&theme=github_dark&hide_border=true&repo=Wolfcrossy"/>
+<a href="https://github.com/DiamondBroPlayz/DiamondBroPlayz">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DiamondBroPlayz&theme=github_dark&hide_border=true&repo=DiamondBroPlayz"/>
 </a>
-<a href="https://github.com/Wolfcrossy/RocketAltitudeCalculator">
-  <img align="center" src="https://github-readme-stats.zohan.tech/api/pin/?username=Wolfcrossy&theme=github_dark&hide_border=true&repo=RocketAltitudeCalculator"/>
+<a href="https://github.com/DiamondBroPlayz/Python-Template">
+  <img align="center" src="https://github-readme-stats.zohan.tech/api/pin/?username=DiamondBroPlayz&theme=github_dark&hide_border=true&repo=Python-Template"/>
 </a>
-<a href="https://github.com/Wolfcrossy/batch-virus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wolfcrossy&theme=github_dark&hide_border=true&repo=batch-virus"/>
+<a href="https://github.com/DiamondBroPlayz/RocketAltitudeCalculator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DiamondBroPlayz&theme=github_dark&hide_border=true&repo=RocketAltitudeCalculator"/>
 </a>
 <a href="https://github.com/wavysblog/wavysblog.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wavysblog&theme=github_dark&hide_border=true&repo=wavysblog.github.io"/>

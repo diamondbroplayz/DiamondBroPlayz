@@ -28,7 +28,7 @@ I am a Developer/Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 - :zap: In my free time, I like to play video games and code
 
-- :mailbox:How to reach me: [Email me. ](mailto:DiamondBroPlayz@proton.me?subject=A%20question%20regarding%20your%20github&body=I%20was%20looking%20at%20your%20github%20and%20have%20a%20question%2C%20) You can also reach me at my discord Wolfcrossy#3333
+- :mailbox:How to reach me: [Email me. ](mailto:DiamondBroPlayz@proton.me?subject=A%20question%20regarding%20your%20github&body=I%20was%20looking%20at%20your%20github%20and%20have%20a%20question%2C%20) You can also reach me at my discord @4lett
 
 ---
 

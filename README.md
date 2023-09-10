@@ -71,7 +71,7 @@ I am a Developer/Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DiamondBroPlayz&theme=github_dark&hide_border=true&repo=RocketAltitudeCalculator"/>
 </a>
 <a href="https://github.com/wavysblog/wavysblog.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wavysblog&theme=github_dark&hide_border=true&repo=wavysblog.github.io"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wavysblog&theme=github_dark&hide_border=true&repo=Blog2"/>
 </a>
 
 ---

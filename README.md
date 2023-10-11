@@ -83,13 +83,13 @@ This is a list of my most recent activity on GitHub.
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [dbpsmath/dbpsmath.github.io](https://github.com/dbpsmath/dbpsmath.github.io)<br>
 2. ⬆️ Pushed 1 commit(s) to [dbpsmath/dbpsmath.github.io](https://github.com/dbpsmath/dbpsmath.github.io)<br>
-3. ⬆️ Pushed 1 commit(s) to [dbpsmath/game-website-template](https://github.com/dbpsmath/game-website-template)<br>
-4. 📔 Created new repository [dbpsmath/game-website-template](https://github.com/dbpsmath/game-website-template)<br>
+3. ⬆️ Pushed 1 commit(s) to [dbpsmath/dbpsmath.github.io](https://github.com/dbpsmath/dbpsmath.github.io)<br>
+4. ⬆️ Pushed 1 commit(s) to [dbpsmath/dbpsmath.github.io](https://github.com/dbpsmath/dbpsmath.github.io)<br>
 5. ⬆️ Pushed 1 commit(s) to [dbpsmath/dbpsmath.github.io](https://github.com/dbpsmath/dbpsmath.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 11th, 2023, 9:13:52 PM
+Last Updated: Wednesday, October 11th, 2023, 9:37:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### 📖 Blog posts

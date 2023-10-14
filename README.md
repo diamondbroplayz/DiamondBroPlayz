@@ -83,13 +83,13 @@ This is a list of my most recent activity on GitHub.
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [dbpsmath/dbpsmath.github.io](https://github.com/dbpsmath/dbpsmath.github.io)<br>
 2. ⬆️ Pushed 1 commit(s) to [dbpsmath/dbpsmath.github.io](https://github.com/dbpsmath/dbpsmath.github.io)<br>
-3. 📖 Created new wiki page [_Footer](https://github.com/dbpsmath/dbpsmath.github.io/wiki/_Footer) in [dbpsmath/dbpsmath.github.io](https://github.com/dbpsmath/dbpsmath.github.io)<br>
-4. 📖 Created new wiki page [_Sidebar](https://github.com/dbpsmath/dbpsmath.github.io/wiki/_Sidebar) in [dbpsmath/dbpsmath.github.io](https://github.com/dbpsmath/dbpsmath.github.io)<br>
-5. 📖 Created new wiki page [Adding-New-Gmaes](https://github.com/dbpsmath/dbpsmath.github.io/wiki/Adding-New-Gmaes) in [dbpsmath/dbpsmath.github.io](https://github.com/dbpsmath/dbpsmath.github.io)<br>
+3. ⬆️ Pushed 1 commit(s) to [dbpsmath/dbpsmath.github.io](https://github.com/dbpsmath/dbpsmath.github.io)<br>
+4. ⬆️ Pushed 1 commit(s) to [dbpsmath/dbpsmath.github.io](https://github.com/dbpsmath/dbpsmath.github.io)<br>
+5. ⬆️ Pushed 1 commit(s) to [dbpsmath/dbpsmath.github.io](https://github.com/dbpsmath/dbpsmath.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 14th, 2023, 7:37:21 PM
+Last Updated: Saturday, October 14th, 2023, 8:14:52 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### 📖 Blog posts

@@ -81,7 +81,7 @@ I am a Developer/Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [dbpsmath/dbpsmath.github.io](https://github.com/dbpsmath/dbpsmath.github.io)<br>
+1. ⭐ Starred [nate-games/nate-games.xyz](https://github.com/nate-games/nate-games.xyz)<br>
 2. ⬆️ Pushed 1 commit(s) to [dbpsmath/dbpsmath.github.io](https://github.com/dbpsmath/dbpsmath.github.io)<br>
 3. ⬆️ Pushed 1 commit(s) to [dbpsmath/dbpsmath.github.io](https://github.com/dbpsmath/dbpsmath.github.io)<br>
 4. ⬆️ Pushed 1 commit(s) to [dbpsmath/dbpsmath.github.io](https://github.com/dbpsmath/dbpsmath.github.io)<br>
@@ -89,7 +89,7 @@ This is a list of my most recent activity on GitHub.
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 15th, 2023, 11:11:46 AM
+Last Updated: Sunday, October 15th, 2023, 11:37:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### 📖 Blog posts

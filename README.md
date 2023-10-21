@@ -81,15 +81,15 @@ I am a Developer/Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [wavysblog/wavysblog.github.io](https://github.com/wavysblog/wavysblog.github.io)<br>
-2. ⬆️ Pushed 1 commit(s) to [DiamondBroPlayz/portfolio](https://github.com/DiamondBroPlayz/portfolio)<br>
-3. ⬆️ Pushed 1 commit(s) to [DiamondBroPlayz/portfolio](https://github.com/DiamondBroPlayz/portfolio)<br>
-4. 📔 Created new repository [DiamondBroPlayz/portfolio](https://github.com/DiamondBroPlayz/portfolio)<br>
-5. ⬆️ Pushed 1 commit(s) to [dbpsmath/dbpsmath.github.io](https://github.com/dbpsmath/dbpsmath.github.io)<br>
+1. ⬆️ Pushed 1 commit(s) to [DiamondBroPlayz/portfolio](https://github.com/DiamondBroPlayz/portfolio)<br>
+2. ⬆️ Pushed 1 commit(s) to [dbpsmath/terminal](https://github.com/dbpsmath/terminal)<br>
+3. ⬆️ Pushed 1 commit(s) to [dbpsmath/terminal](https://github.com/dbpsmath/terminal)<br>
+4. ⬆️ Pushed 1 commit(s) to [wavysblog/wavysblog.github.io](https://github.com/wavysblog/wavysblog.github.io)<br>
+5. ⬆️ Pushed 1 commit(s) to [DiamondBroPlayz/portfolio](https://github.com/DiamondBroPlayz/portfolio)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 21st, 2023, 3:13:58 PM
+Last Updated: Saturday, October 21st, 2023, 3:36:57 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### 📖 Blog posts

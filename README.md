@@ -81,15 +81,15 @@ I am a Developer/Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [dbpsmath/dbpsmathcomments](https://github.com/dbpsmath/dbpsmathcomments)<br>
-2. 📔 Created new repository [DiamondBroPlayz/Search](https://github.com/DiamondBroPlayz/Search)<br>
-3. ⬆️ Pushed 1 commit(s) to [dbpsmath/cdn](https://github.com/dbpsmath/cdn)<br>
-4. ⬆️ Pushed 1 commit(s) to [DiamondBroPlayz/portfolio](https://github.com/DiamondBroPlayz/portfolio)<br>
-5. ⬆️ Pushed 1 commit(s) to [dbpsmath/terminal](https://github.com/dbpsmath/terminal)<br>
+1. 📔 Created new repository [DiamondBroPlayz/radiation](https://github.com/DiamondBroPlayz/radiation)<br>
+2. ⭐ Starred [Abnumality/abnumality.github.io](https://github.com/Abnumality/abnumality.github.io)<br>
+3. ⬆️ Pushed 2 commit(s) to [DiamondBroPlayz/spongebob](https://github.com/DiamondBroPlayz/spongebob)<br>
+4. 🎉 Merged PR [#1](https://github.com/DiamondBroPlayz/spongebob/pull/1) in [DiamondBroPlayz/spongebob](https://github.com/DiamondBroPlayz/spongebob)<br>
+5. 💪 Opened PR [#1](https://github.com/DiamondBroPlayz/spongebob/pull/1) in [DiamondBroPlayz/spongebob](https://github.com/DiamondBroPlayz/spongebob)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 23rd, 2023, 8:37:10 PM
+Last Updated: Monday, October 23rd, 2023, 9:13:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### 📖 Blog posts

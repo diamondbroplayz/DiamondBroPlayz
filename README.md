@@ -79,15 +79,15 @@ I am a Developer/Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](https://github.com/WhoIsEv/whoisev.github.io/pull/1) in [WhoIsEv/whoisev.github.io](https://github.com/WhoIsEv/whoisev.github.io)<br>
-2. ⬆️ Pushed 1 commit(s) to [DiamondBroPlayz/whoisev.github.io](https://github.com/DiamondBroPlayz/whoisev.github.io)<br>
-3. ⬆️ Pushed 1 commit(s) to [DiamondBroPlayz/whoisev.github.io](https://github.com/DiamondBroPlayz/whoisev.github.io)<br>
+1. ⬆️ Pushed 1 commit(s) to [DiamondBroPlayz/DiamondBroPlayz](https://github.com/DiamondBroPlayz/DiamondBroPlayz)<br>
+2. ⬆️ Pushed 1 commit(s) to [DiamondBroPlayz/DiamondBroPlayz](https://github.com/DiamondBroPlayz/DiamondBroPlayz)<br>
+3. 💪 Opened PR [#1](https://github.com/WhoIsEv/whoisev.github.io/pull/1) in [WhoIsEv/whoisev.github.io](https://github.com/WhoIsEv/whoisev.github.io)<br>
 4. ⬆️ Pushed 1 commit(s) to [DiamondBroPlayz/whoisev.github.io](https://github.com/DiamondBroPlayz/whoisev.github.io)<br>
 5. ⬆️ Pushed 1 commit(s) to [DiamondBroPlayz/whoisev.github.io](https://github.com/DiamondBroPlayz/whoisev.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 12th, 2023, 7:37:12 PM
+Last Updated: Sunday, November 12th, 2023, 8:15:21 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### 📖 Blog posts

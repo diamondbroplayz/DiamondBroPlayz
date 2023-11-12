@@ -18,7 +18,6 @@
    </h1>
 </div>
 
-# ![My profile banner](https://github.com/Wolfcrossy/Wolfcrossy/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner.png)
 
 I am a Developer/Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the USA. <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 

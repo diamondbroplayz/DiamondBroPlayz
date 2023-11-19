@@ -79,15 +79,15 @@ I am a Developer/Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [DiamondBroPlayz/nvm](https://github.com/DiamondBroPlayz/nvm)<br>
-2. 📔 Created new repository [DiamondBroPlayz/nvm](https://github.com/DiamondBroPlayz/nvm)<br>
-3. ⬆️ Pushed 1 commit(s) to [dbpsmath/radiation](https://github.com/dbpsmath/radiation)<br>
-4. 📔 Created new repository [3v3ry0n3/gresdfsdfsdf](https://github.com/3v3ry0n3/gresdfsdfsdf)<br>
-5. 📔 Created new repository [3v3ry0n3/jnhkjknh](https://github.com/3v3ry0n3/jnhkjknh)<br>
+1. ⬆️ Pushed 1 commit(s) to [DiamondBroPlayz/portfolio](https://github.com/DiamondBroPlayz/portfolio)<br>
+2. ⬆️ Pushed 1 commit(s) to [DiamondBroPlayz/nvm](https://github.com/DiamondBroPlayz/nvm)<br>
+3. 📔 Created new repository [DiamondBroPlayz/nvm](https://github.com/DiamondBroPlayz/nvm)<br>
+4. ⬆️ Pushed 1 commit(s) to [dbpsmath/radiation](https://github.com/dbpsmath/radiation)<br>
+5. 📔 Created new repository [3v3ry0n3/gresdfsdfsdf](https://github.com/3v3ry0n3/gresdfsdfsdf)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 19th, 2023, 8:37:15 PM
+Last Updated: Sunday, November 19th, 2023, 9:13:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### 📖 Blog posts

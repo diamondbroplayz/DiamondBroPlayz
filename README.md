@@ -18,26 +18,7 @@
    </h1>
 </div>
 
-
-I am a Developer/Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the USA. <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-
-- :telescope: I’m a gamer and an indepent coder
-
-- :seedling: I know some C and Batch. I also know a lot of html, css, JS, PHP, and Python
-
-- :zap: In my free time, I like to play video games and code
-
-- :mailbox:How to reach me: [Email me. ](mailto:DiamondBroPlayz@proton.me?subject=A%20question%20regarding%20your%20github&body=I%20was%20looking%20at%20your%20github%20and%20have%20a%20question%2C%20) You can also reach me at my discord @4lett
-
----
-
 ### :hammer_and_wrench: Languages and Tools :
-
-### Program Development
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ### Web Development
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -68,27 +49,6 @@ I am a Developer/Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 
 ---
-
-### Recent Activity
-
-This is a list of my most recent activity on GitHub.
-
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [DiamondBroPlayz/DiamondBroPlayz](https://github.com/DiamondBroPlayz/DiamondBroPlayz)<br>
-2. 📖 Created new wiki page [Home](https://github.com/dbpsmath/dbpsmath.github.io/wiki/Home) in [dbpsmath/dbpsmath.github.io](https://github.com/dbpsmath/dbpsmath.github.io)<br>
-3. ⬆️ Pushed 1 commit(s) to [DiamondBroPlayz/DiamondBroPlayz](https://github.com/DiamondBroPlayz/DiamondBroPlayz)<br>
-4. ⬆️ Pushed 1 commit(s) to [DiamondBroPlayz/CookieCloner](https://github.com/DiamondBroPlayz/CookieCloner)<br>
-5. 📔 Created new repository [DiamondBroPlayz/CookieCloner](https://github.com/DiamondBroPlayz/CookieCloner)<br>
-<!--RECENT_ACTIVITY:end-->
-
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 23rd, 2023, 9:37:04 PM
-<!--RECENT_ACTIVITY:last_update_end-->
-
-### 📖 Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Upgrading Basic Python Scripts](https://dev.to/wolfcrossy/upgrading-basic-python-scripts-278h)
-<!-- BLOG-POST-LIST:END -->
 
 ### 🐙💍 Octo Ring
 <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/Wolfcrossy/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/Wolfcrossy/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/Wolfcrossy/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>

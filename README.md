@@ -62,8 +62,8 @@ I am a Developer/Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 <a href="https://github.com/DiamondBroPlayz/DiamondBroPlayz">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DiamondBroPlayz&theme=github_dark&hide_border=true&repo=DiamondBroPlayz"/>
 </a>
-<a href="https://github.com/DiamondBroPlayz/Python-Template">
-  <img align="center" src="https://github-readme-stats.zohan.tech/api/pin/?username=DiamondBroPlayz&theme=github_dark&hide_border=true&repo=Python-Template"/>
+<a href="https://github.com/DiamondBroPlayz/CookieCloner">
+  <img align="center" src="https://github-readme-stats.zohan.tech/api/pin/?username=DiamondBroPlayz&theme=github_dark&hide_border=true&repo=CookieCloner"/>
 </a>
 <a href="https://github.com/DiamondBroPlayz/RocketAltitudeCalculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DiamondBroPlayz&theme=github_dark&hide_border=true&repo=RocketAltitudeCalculator"/>

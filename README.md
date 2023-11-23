@@ -26,21 +26,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Recent Projects :
-
-<a href="https://github.com/DiamondBroPlayz/DiamondBroPlayz">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DiamondBroPlayz&theme=github_dark&hide_border=true&repo=DiamondBroPlayz"/>
-</a>
-<a href="https://github.com/DiamondBroPlayz/CookieCloner">
-  <img align="center" src="https://github-readme-stats.zohan.tech/api/pin/?username=DiamondBroPlayz&theme=github_dark&hide_border=true&repo=CookieCloner"/>
-</a>
-<a href="https://github.com/DiamondBroPlayz/RocketAltitudeCalculator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DiamondBroPlayz&theme=github_dark&hide_border=true&repo=RocketAltitudeCalculator"/>
-</a>
-<a href="https://github.com/wavysblog/Blog2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wavysblog&theme=github_dark&hide_border=true&repo=Blog2"/>
-</a>
-
 ---
 
 ### :fire: My Stats :

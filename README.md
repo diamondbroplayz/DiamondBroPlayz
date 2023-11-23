@@ -79,15 +79,15 @@ I am a Developer/Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [DiamondBroPlayz/CookieCloner](https://github.com/DiamondBroPlayz/CookieCloner)<br>
-2. ⬆️ Pushed 1 commit(s) to [DiamondBroPlayz/portfolio](https://github.com/DiamondBroPlayz/portfolio)<br>
-3. ⬆️ Pushed 1 commit(s) to [DiamondBroPlayz/nvm](https://github.com/DiamondBroPlayz/nvm)<br>
-4. 📔 Created new repository [DiamondBroPlayz/nvm](https://github.com/DiamondBroPlayz/nvm)<br>
-5. ⬆️ Pushed 1 commit(s) to [dbpsmath/radiation](https://github.com/dbpsmath/radiation)<br>
+1. 📖 Created new wiki page [Home](https://github.com/dbpsmath/dbpsmath.github.io/wiki/Home) in [dbpsmath/dbpsmath.github.io](https://github.com/dbpsmath/dbpsmath.github.io)<br>
+2. ⬆️ Pushed 1 commit(s) to [DiamondBroPlayz/DiamondBroPlayz](https://github.com/DiamondBroPlayz/DiamondBroPlayz)<br>
+3. ⬆️ Pushed 1 commit(s) to [DiamondBroPlayz/CookieCloner](https://github.com/DiamondBroPlayz/CookieCloner)<br>
+4. 📔 Created new repository [DiamondBroPlayz/CookieCloner](https://github.com/DiamondBroPlayz/CookieCloner)<br>
+5. ⬆️ Pushed 1 commit(s) to [DiamondBroPlayz/portfolio](https://github.com/DiamondBroPlayz/portfolio)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 23rd, 2023, 8:16:31 PM
+Last Updated: Thursday, November 23rd, 2023, 8:37:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### 📖 Blog posts
